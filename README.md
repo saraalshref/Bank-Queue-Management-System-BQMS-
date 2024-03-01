@@ -1,0 +1,1 @@
+The Bank Queue Management System (BQMS) is a C++ application designed to manage customer queues in a bank. It features customer queue management, teller assignment, service time simulation, priority queue options, waiting time analysis, and dynamic teller allocation.
